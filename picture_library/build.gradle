@@ -6,8 +6,8 @@ android {
     defaultConfig {
         minSdkVersion cfgs.minSdkVersion
         targetSdkVersion cfgs.targetSdkVersion
-        versionCode 22
-        versionName 3.0.0
+        versionCode cfgs.versionCode
+        versionName cfgs.versionName
     }
 
     compileOptions {
