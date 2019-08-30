@@ -1,5 +1,5 @@
 <resources>
-    <string name="picture_camera_roll">C</string>
+    <string name="picture_camera_roll">Camera</string>
     <string name="picture_cancel">Annuler</string>
     <string name="picture_take_picture">Shot</string>
     <string name="picture_rule">pas d images ou de video</string>
