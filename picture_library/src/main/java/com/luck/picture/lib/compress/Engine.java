@@ -76,6 +76,8 @@ class Engine {
     if (Checker.SINGLE.isJPG(srcImg.open())) {
       tagBitmap = rotatingImage(tagBitmap, Checker.SINGLE.getOrientation(srcImg.open()));
     }
+    if(tagBitmap != null ){
+      
     tagBitmap.compress(focusAlpha ? Bitmap.CompressFormat.PNG : Bitmap.CompressFormat.JPEG, 60, stream);
     tagBitmap.recycle();
 
@@ -84,7 +86,7 @@ class Engine {
     fos.flush();
     fos.close();
     stream.close();
-
+    }
     return tagImg;
   }
 }
