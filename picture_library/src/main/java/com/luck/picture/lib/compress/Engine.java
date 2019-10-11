@@ -79,6 +79,7 @@ class Engine {
     if(tagBitmap != null ){
       
     tagBitmap.compress(focusAlpha ? Bitmap.CompressFormat.PNG : Bitmap.CompressFormat.JPEG, 60, stream);
+       }
     tagBitmap.recycle();
 
     FileOutputStream fos = new FileOutputStream(tagImg);
@@ -86,7 +87,7 @@ class Engine {
     fos.flush();
     fos.close();
     stream.close();
-    }
+   
     return tagImg;
   }
 }
