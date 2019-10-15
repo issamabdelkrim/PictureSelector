@@ -4,7 +4,7 @@
     <string name="picture_take_picture">Shot</string>
     <string name="picture_rule">pas d images ou de vidéo</string>
     <string name="picture_min_video_num">Nombre d images maximum atteint</string>
-    <string name="picture_message_max_num">Vous pouvez choisir le plus%1$s Nombre de photos</string>
+    <string name="picture_message_max_num">Nombre d images maximum atteint</string>
     <string name="picture_preview">Aperçu</string>
     <string name="picture_please">S il vous plaît plus tard...</string>
     <string name="picture_done_front_num">%1$d/%2$d Ok</string>
