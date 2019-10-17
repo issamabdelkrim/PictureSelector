@@ -2,9 +2,9 @@
     <string name="picture_camera_roll">Camera</string>
     <string name="picture_cancel">Annuler</string>
     <string name="picture_take_picture">Shot</string>
-    <string name="picture_rule">pas d&#39;images ou de vidéo</string>
-    <string name="picture_min_video_num">Nombre d images maximum atteint</string>
-    <string name="picture_message_max_num">Nombre d images maximum atteint</string>
+    <string name="picture_rule">pas d\'images ou de vidéo</string>
+    <string name="picture_min_video_num">Nombre d\'images maximum atteint</string>
+    <string name="picture_message_max_num">Nombre d\'images maximum atteint</string>
     <string name="picture_preview">Aperçu</string>
     <string name="picture_please">S il vous plaît plus tard...</string>
     <string name="picture_done_front_num">%1$d/%2$d Ok</string>
@@ -15,7 +15,7 @@
     <string name="picture_empty_audio_title">No audio file\n</string>
     <string name="picture_audio_empty">You can use system recordings to record audio</string>
     <string name="picture_empty">vous pouvez utiliser votre appareil photo pour prendre des photos ou des vidéos</string>
-    <string name="picture_min_img_num">La sélection d image ne peut pas%1$sNombre</string>
+    <string name="picture_min_img_num">La sélection d\'image ne peut pas%1$sNombre</string>
     <string name="gif_tag">gif</string>
     <string name="picture_audio">Access to system recording permission denied</string>
     <string name="picture_jurisdiction">Read memory card access denied</string>
